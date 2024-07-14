@@ -66,11 +66,6 @@ public class BatteryServiceImplTest {
     }
 
     @Test
-    public void testGetBatteriesByPostcodeRange() {
-        // Implement this test based on your specific repository and service logic
-    }
-
-    @Test
     public void testValidateBatteryList() {
         // Given
         List<BatteryDTO> batteryDTOs = Arrays.asList(
